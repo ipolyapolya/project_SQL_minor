@@ -17,3 +17,11 @@
 **release_date_precision (releases_of_albums)**: конкретный день (day) или год (year)
 
 **type_of_subscription (таблица subscriptions):** free, individual, family, plus
+
+
+
+
+**Содержание:**
+- база данных.png - схема базы
+- creating.ipynb - файл с кодом по созданию БД и загрузке данных
+- queries.ipynb - файл с запросами и их реализацией
